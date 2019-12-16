@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "86TV62RGGV.com.aidi.wall",
+                "paths": [ "/app/*"]
+            },
+        ]
+    }
+}
